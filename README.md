@@ -20,9 +20,9 @@ Ruby技術者認定試験 Silver レベル向けの **練習問題集**です。
 
 | セット | 予定時期 | 予定問題数 |
 |--------|---------|----------|
-| Silver Round 2 | Q2 2024 | 50問 |
-| Silver Round 3 | Q3 2024 | 50問 |
-| Silver Round 4 | Q4 2024 | 50問 |
+| Silver Round 2 | Q2 2026 | 50問 |
+| Silver Round 3 | Q3 2026 | 50問 |
+| Silver Round 4 | Q4 2026 | 50問 |
 
 ---
 
